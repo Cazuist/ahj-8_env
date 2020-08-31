@@ -2,7 +2,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/qa77dv1xp6xiahpx?svg=true)](https://ci.appveyor.com/project/Cazuist/ahj-8-env)
 
-[!Рабочее окружение](https://Cazuist.github.io/ahj-8-env.git)
+[!Рабочее окружение](https://cazuist.github.io/ahj-8_env)
 
 # Домашнее задание к лекции "Рабочее окружение"
 1. Сборка инфраструктуры с помощью **yarn**
